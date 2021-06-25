@@ -16,3 +16,7 @@ logs
 
 # Other stuff
 .DS_Store
+
+# Database files
+*.sqlite
+*.sqlite3
